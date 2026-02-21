@@ -5,6 +5,10 @@ https://www.police.gov.sg/ or https://www.gov.sg/.
 > Call the 24/7 ScamShield Helpline at 1799 if you are unsure if something is a
 > scam.
 
+This is particularly annoying since crossing the notification out does not keep
+it crossed out for the future. For example, upon refreshing, this notification
+shows up again.
+
 # Usage
 Navigate to the following:
 
