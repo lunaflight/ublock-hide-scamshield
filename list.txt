@@ -8,7 +8,7 @@
 
 sg###Notices > div:has-text(24/7 ScamShield)
 sg###Scamshield:has-text(24/7 ScamShield)
-sg###annoucement-bar:has-text(24/7 ScamShield)
+sg###announcement-bar:has-text(24/7 ScamShield)
 sg###announcement:has-text(24/7 ScamShield)
 sg###announcementsBanner:has-text(24/7 ScamShield)
 sg###antiScamBanner:has-text(24/7 ScamShield)
