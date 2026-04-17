@@ -1,7 +1,7 @@
 ! Title: Hide ScamShield Prompts
 ! Description: Hide all traces of ScamShield advertisements on various Singaporean websites
 ! Version: 2026.2.21
-! Last modified: 2026-04-17 19:09
+! Last modified: 2026-04-18 01:26
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/lunaflight/ublock-hide-scamshield
 ! License: https://github.com/lunaflight/ublock-hide-scamshield/blob/master/LICENSE
@@ -15,6 +15,7 @@ sg###antiScamBanner:has-text(24/7 ScamShield)
 sg###closable-message-holder:has-text(24/7 ScamShield)
 sg###collapseNotification:has-text(24/7 ScamShield)
 sg###disclaimer_bar:has-text(24/7 ScamShield)
+sg###globalnotice:has-text(24/7 ScamShield)
 sg###notification-bar:has-text(24/7 ScamShield)
 sg###notification-bar:has-text(Call ScamShield)
 sg###scamBanner:has-text(24/7 ScamShield)
